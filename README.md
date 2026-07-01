@@ -1,5 +1,5 @@
 # Hey, I'm Dylan 👋
-🧑‍🎓 I'm currently studying computer science at Carnegie Mellon University<br>🤖 My interests lie at the intersection of artificial intelligence, human-computer interaction, and software engineering<br>💼 I'll be joining Oracle as a SWE intern in summer of 2026, and previously interned as an SDE at both Synopsys and F.N.B. Corporation<br>📫 Feel free to reach out: dlanducc@andrew.cmu.edu
+🧑‍🎓 I'm currently studying computer science at Carnegie Mellon University<br>🤖 My interests lie at the intersection of artificial intelligence, human-computer interaction, and software engineering<br>💼 Right now, I'm a SWE intern at Oracle, and I've previously interned as an SDE at both Synopsys and F.N.B. Corporation<br>📫 Feel free to reach out: dlanducc@andrew.cmu.edu
 
 
 ## 🌐 Socials:
